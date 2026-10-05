@@ -1,0 +1,2 @@
+# companies-marketcap-excel
+世界の時価総額ランキングと日本企業を取得し、3シートのExcelに出力するPythonプログラム
